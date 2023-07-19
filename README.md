@@ -1,7 +1,8 @@
 # Duet3 Wifi Module
 Plugin wifi module for Duet 3 6HC mainboards
 
-![image](https://github.com/Duet3D/Duet3-Wifi-Module/assets/1642947/ca2742cc-6e53-4950-9611-afb406e0e63e)
+![image](https://github.com/Duet3D/Duet3-Wifi-Module/assets/1642947/e8d2c996-3d58-4078-a2a1-f99ad33c0605)
+
 
 Product Page:
 [https://www.duet3d.com/duet3_wifi_module](https://www.duet3d.com/duet3_wifi_module)
