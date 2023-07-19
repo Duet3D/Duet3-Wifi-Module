@@ -12,3 +12,6 @@ Documentation is here:
 [Duet 3 Wifi Module Documentation](https://docs.duet3d.com/Duet3D_hardware/Duet_3_family/Duet_3_Mainboard_6HC_Hardware_Overview#wifi-v102)
 
 
+licensed under the "CERN-OHL-S v2" or any later version plus the "Additional Duet3D Licence Terms",
+see https://github.com/Duet3D/Duet3-Mainboard-6HC/blob/master/LICENSE
+
